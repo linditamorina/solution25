@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/contact.css">
+    <title>Contact Us</title>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="content">
+                <div class="logo">
+                    <a href="index.html">Logo</a>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="index.html" class="active">Home</a></li>
+                        <li><a href="productPage.html">Product</a></li>
+                        <li><a href="#">Solutions</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                    <div class="nav-icons">
+                        <li><img src="assets/images/fi-rr-user.svg" alt="user"></li>
+                        <li><img src="assets/images/fi-rr-search.svg" alt="search"></li>
+                        <li><img src="assets/images/shopping-cart.svg" alt="shoping card"></li>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <section class="contact">
+        <div class="container">
+            <div class="content">
+                <div class="contact-form">
+                    <div class="contact-data">
+                        <h2>Contact us</h2>
+                        <div class="location">
+                            <img src="assets/images/map.svg" alt="location">
+                            <a href="#">123 Prishtina St., Bremen</a>
+                        </div>
+                        <div class="phone">
+                            <img src="assets/images/feather-phone.svg" alt="phone">
+                            <a href="#">123 456 7891</a>
+                        </div>
+                        <div class="celular">
+                            <img src="assets//images/celular.svg" alt="celular">
+                            <a href="#">123 456 7891</a>
+                        </div>
+                    </div>
+                    <form>
+                        <div class="username">
+                            <input type="text" id="name-surname" maxlength="20" placeholder="Name" name="name" required>
+                            <span class="error-name error"></span>
+                            <input type="email" id="email" maxlength="20" placeholder="Email" name="email" required>
+                            <span class="error-email error"></span>
+                        </div>
+                        <textarea name="message" id="message" maxlength="100" cols="10" rows="5"
+                            placeholder="Your message here" required></textarea>
+                        <span class="error-message error"></span>
+                        <button type="submit" class="submitPopup">Send</button>
+                    </form>
+                </div>
+                <div class="image">
+                    <img src="assets/images/MaskGroup.png" alt="image">
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <script src="assets/js/scripts.js"></script>
+</body>
+
+</html>

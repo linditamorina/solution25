@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="32.057" viewBox="0 0 30 32.057">
+  <g id="Icon_ICON_feather_map-pin_SIZE_LARGE_STYLE_STYLE1_" data-name="Icon [ICON=feather/map-pin][SIZE=LARGE][STYLE=STYLE1]" transform="translate(-0.313 1.091)">
+    <rect id="Area_ICON:feather_map-pin_SIZE:LARGE_STYLE:STYLE1_" data-name="Area [ICON:feather/map-pin][SIZE:LARGE][STYLE:STYLE1]" width="30" height="30" transform="translate(0.313 -0.046)" fill="#fcfcfc" opacity="0"/>
+    <g id="Icon" transform="translate(2.716 0)">
+      <path id="_48127f13-691d-4c19-8c52-ff3ef283be75" data-name="48127f13-691d-4c19-8c52-ff3ef283be75" d="M27.716,13.312c0,9.505-12.221,17.654-12.221,17.654S3.273,22.818,3.273,13.312a12.221,12.221,0,1,1,24.443,0Z" transform="translate(-3.273 -1.091)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.182"/>
+      <circle id="_1ccb72a6-21ae-4263-a131-a09324b59272" data-name="1ccb72a6-21ae-4263-a131-a09324b59272" cx="4.074" cy="4.074" r="4.074" transform="translate(8.147 8.148)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.182"/>
+    </g>
+  </g>
+</svg>
